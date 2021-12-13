@@ -1,6 +1,10 @@
+<<<<<<< HEAD =======>>>>>>>
     ___
  __/_  `.  .-"""-.
  \_,` | \-'  /   )`-')
   "") `"`    \  ((`"`
  ___Y  ,    .'7 /|
 (_,___/...-` (_/_/ WOOF!
+
+Estas son lineas escritas para generar un conflicto en Git
+ f93485908903f8f1de36a7a020e7c6aa080ce764
